@@ -1,6 +1,7 @@
 package bridge;
 
-// Refined Abstraction
+// RefinedAbstraction (normal class)
+//It extends the interface defined by Abstraction.
 
 // If I decide I want to further extend the remote I can
 

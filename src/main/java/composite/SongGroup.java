@@ -24,15 +24,11 @@ public class SongGroup extends SongComponent {
     public String getGroupDescription() { return groupDescription; }
 
     public void add(SongComponent newSongComponent) {
-
         songComponents.add(newSongComponent);
-
     }
 
     public void remove(SongComponent newSongComponent) {
-
         songComponents.remove(newSongComponent);
-
     }
 
     public SongComponent getComponent(int componentIndex) {

@@ -1,6 +1,8 @@
 package bridge;
 
-// Concrete Implementor
+// ConcreteImplementor (normal class)
+//It implements the Implementer interface.
+
 
 // Here is an implementation of the EntertainmentDevice
 // abstract class. I'm specifying what makes it different

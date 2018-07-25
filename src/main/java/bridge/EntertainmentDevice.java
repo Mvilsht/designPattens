@@ -1,6 +1,11 @@
 package bridge;
 
-// Implementor
+// Implementer (interface)
+//It defines the interface for implementation classes.
+// This interface does not need to correspond directly to abstraction interface and can be very different.
+// Abstraction imp provides an implementation in terms of operations provided by Implementer interface.
+
+
 // With the Bridge Design Pattern you create 2 layers of abstraction
 // In this example I'll have an abstract class representing
 // different types of devices. I also have an abstract class

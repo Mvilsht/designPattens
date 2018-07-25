@@ -23,7 +23,8 @@ public class SongListGenerator {
 
         // Top level component that holds everything
 
-        SongComponent everySong = new SongGroup("Song List", "Every Song Available");
+        SongComponent everySong =
+                new SongGroup("Song List", "Every Song Available");
 
         // Composite that holds individual groups of songs
         // This holds Songs plus a SongGroup with Songs

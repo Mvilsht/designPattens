@@ -1,4 +1,4 @@
-package singelton;
+package singleton;
 // The Singleton pattern is both easy to understand as well as useful. I’ll demonstrate first how to implement the Singleton pattern.
 // Then I’ll provide and example of its usefulness with a Scrabble example.
 //Threads can sometimes play havoc with this pattern, so I’ll show you how to avoid those problems. I’ll also review how to use threads, LinkedLists and more.

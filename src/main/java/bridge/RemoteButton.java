@@ -1,6 +1,7 @@
 package bridge;
 
-// Abstraction
+// Abstraction (abstract class)
+//It defined the abstract interface i.e. behavior part. It also maintains the Implementer reference.
 
 // This is an abstract class that will represent numerous
 // ways to work with each device

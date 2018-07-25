@@ -14,19 +14,16 @@ abstract class ToppingDecorator implements Pizza {
     // instance PlainPizza because of this
 
     public ToppingDecorator(Pizza newPizza){
-
         tempPizza = newPizza;
 
     }
 
     public String getDescription() {
-
         return tempPizza.getDescription();
 
     }
 
     public double getCost() {
-
         return tempPizza.getCost();
 
     }
